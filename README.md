@@ -41,3 +41,7 @@ The final meal is supper.
 ## Step 7 ##
 To conclude, a dietary recall of a client, a final recall of any pm snacks is taken place. 
 
+## What To Do After a Dietary Recall ##
+After recalling a clients past 24 hour diet intake, 
+
+
