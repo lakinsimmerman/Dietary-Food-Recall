@@ -1,8 +1,14 @@
-# How-a-Dietitian-Can-Do-a-Dietary-Recall
+# How to Perform a 24 Hour Dietary Food Recall
 
 ## Introduction ## 
-People everywhere find themselves unaware of the amount of calories they consume a day. 
-Upon meeting with a dietitian, the first orer of busisness is often one of the most in depth and brain stretching procedures. 
+People everywhere find themselves unaware of the amount of calories they consume a day.
+This is not suprising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are busy. 
+This has lead to focus on moderate food consumption to be a lost system in American culture. 
+So how does this affect its people? 
+According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic.  
+Upon this concerning fact, steps must be taken to improve nutritional intake of Ameicans. 
+The first step to reducing obesity is to medatate on an individuals day to day consumption of foods. 
+In order to develop a change, an evaluation of an individulas diet must take place. irst orer of busisness is often one of the most in depth and brain stretching procedures. 
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
 This allows the dietitian to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves. 
 
