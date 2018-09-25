@@ -1,4 +1,4 @@
-# How-a-Dietitian-Can-Do-a-Dietary-Recall-
+# How-a-Dietitian-Can-Do-a-Dietary-Recall
 
 ## Introduction ## 
 People everywhere find themselves unaware of the amount of calories they consume a day. 
