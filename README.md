@@ -38,13 +38,13 @@ One must keep in mind that this recall is not about making someone feel bad abou
 To begin the food recall, ask the client to be as accurate as possible.
 
 ## Step 2 ##
-Begin with breakfast recall
-
-*If no food was consumed in the morning hours, record this in chart*
+Since breakfast is typically the first meal of the day begin with breakfast recall
 
 This incldues:
 
 >What time did you eat your first item of food today? (Record in chart) 
+
+>What did you eat? 
 
 >How much did you consume? (Record in chart) 
 
@@ -52,34 +52,49 @@ This incldues:
 
 >Do you take any medicaitons, supplements, or vitamins? 
 
+After each question is asked and answered, record information in organized 24 Hour Food Recall Chart. 
 
-Upon recieving the background of the clients dietary breakfast recall, the dietitian will record information on a piece of paper or in a database program. 
-A very important component of consuming breakfast foods would be to adivse to the clinet foods that contain a complex carbohydrate as well as a 3:1 balance of protein. 
+*If no food was consumed in the morning hours, record this in chart* 
+
+**Note**
+
+It is very important to not rush this process. Recalling information may take time and patience. 
 
 ## Step 3 ##
-Next is the recall of a morning snack. 
-When looking at the clients morning snack, a good thing to advise to them would be a food high in protein such as almonds.
-Almonds will keep a steady blood sugar for the client and will prevent a crash in enegry or mood later in the day. 
+Next is the recall of a morning snack. Just like in the previous step, the type of food, time consumed, beverages consumed, and supplements is asked and recorded. If no morning snack is consumed, move on. 
 
-## Step 4 ##
-AFter asking about the clients morning snack, a recall for the previous days lunch is next on the agenda
+**Note** 
 
-## Step 5 ##
-Followed by lunch recall, a pm snack takes place.  
+Make sure portion sizes are accurate by giving visual aids to ensure the individual is able to propperly estimate inake.
 
-## Step 6 ##
-The final meal is supper. 
+## Steps 4-6 ##
+Steps 4-6 are very similiar to steps 2 and 3.
+Continue on with the dietary recall for lunch, afternoon snack, and dinner. Make sure and include beverages, and supplements. 
+Remember to go slow and be as thorough as possible. 
 
 ## Step 7 ##
-To conclude, a dietary recall of a client, a final recall of any pm snacks is taken place. 
+To conclude a dietary recall of a client, a final recall of any pm snacks is taken place. 
+At this time, you will read back to the client their 24 hour recall and ask if there is anything missing or inaccurate. 
+If the individual says 
 
 ![ Example of Dietary Food Recall Finished Paper ](https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/th3AOK1F13.jpg)
 
 
-FAQ
+# FAQ #
 ## What if an Individual is Unable to Recall? ##
+
+This is a very common issue concerning dietary recalls. Many times individuals are unaware of what they are eating from day to day. 
+Upon this issue, there are two options:
+
+>1. Ask the individual to try their best to recall a normal day. Even if they are unable to remember that specific day, the often times are ablet to identify a normal days diet or patterns in their day to day meals. 
+
+>2. Ask the indivdual to reschedule a meeting the following week. During this time in between, they must record thier food intake in a journal to be shared the next time. 
+
+## What is the Point of a 24 Hour Dietary Recall?
 
 ## What To Do After a Dietary Recall ##
 After recalling a clients past 24 hour diet intake, 
+
+## What if They are Recalling In the Middle of the Day? 
 
 
