@@ -18,7 +18,7 @@ The following provides step-by-step instructions on how to construct a 24 hour d
 When performing a 24 hour dietary recall, you must be prepared in order to achive your goal. Make sure you have (a):
 >Pen
 
->Paper (Includes spaces for breakfast, a.m. snack, lunch, afternoon snack, dinner, p.m. snack)
+>24 Hour Food Recall Chart (Includes spaces for breakfast, a.m. snack, lunch, afternoon snack, dinner, p.m. snack)
 
 >Calculator
 
@@ -29,13 +29,30 @@ When performing a 24 hour dietary recall, you must be prepared in order to achiv
 
 
 ## Step 1 ##
-First thing in a 24 hour dietary recall is the most important step. The  by letting client know that they are in a safe and judgement free zone to talk about food. 
-So oten times people feel as though others are going to be judgemental about the food choices that they make. 
-However, this recall is not about judgement, but rather about how to help the client. 
+First thing in a 24 hour dietary recall is the most important step in order to get the most accurate data from an individual. 
+After proper introduction of oneself, begin by letting the client know that they are in a safe and judgement free zone to talk about thier food consumption. 
+So oten times people feel as though they are going to be judged based on the foods they consume; therefore, they choose to withhold information about the food choices that they make.
+This fear of judgement can disrupt the accuracy and goal of the 24 hour recall. 
+One must keep in mind that this recall is not about making someone feel bad about what they consume but rahter how they can help them. 
+
+To begin the food recall, ask the client to be as accurate as possible.
 
 ## Step 2 ##
-Begain asking what they consumed for breakfast. 
-Include beverages as well as supplements in order to fully understand what the client is consuming.
+Begin with breakfast recall
+
+*If no food was consumed in the morning hours, record this in chart*
+
+This incldues:
+
+>What time did you eat your first item of food today? (Record in chart) 
+
+>How much did you consume? (Record in chart) 
+
+>What beverages did you consume? 
+
+>Do you take any medicaitons, supplements, or vitamins? 
+
+
 Upon recieving the background of the clients dietary breakfast recall, the dietitian will record information on a piece of paper or in a database program. 
 A very important component of consuming breakfast foods would be to adivse to the clinet foods that contain a complex carbohydrate as well as a 3:1 balance of protein. 
 
@@ -55,6 +72,9 @@ The final meal is supper.
 
 ## Step 7 ##
 To conclude, a dietary recall of a client, a final recall of any pm snacks is taken place. 
+
+![ Example of Dietary Food Recall Finished Paper ](https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/th3AOK1F13.jpg)
+
 
 FAQ
 ## What if an Individual is Unable to Recall? ##
