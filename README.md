@@ -1,5 +1,4 @@
-# How to Perform a 24 Hour Dietary Food Recall
-
+![ 24 Hour Food Recall ]( https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/ll.jpg )
 ## Introduction ## 
 People everywhere find themselves unaware of the amount of calories they consume a day.
 This is not suprising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are busy. 
