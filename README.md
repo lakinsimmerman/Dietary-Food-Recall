@@ -1,25 +1,35 @@
 ![ 24 Hour Food Recall ]( https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/ll.jpg )
 ## Introduction ## 
 People everywhere find themselves unaware of the amount of calories they consume a day.
-This is not suprising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are busy. 
-This has lead to focus on moderate food consumption to be a lost system in American culture. 
-So how does this affect its people? 
+This is not suprising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are overwhelmed with busy schedules. 
+This has lead to the loss of focus when it comes to consuming moderate food intake in American culture. 
+So how does this affect American people? 
 According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic.  
-Upon this concerning fact, steps must be taken to improve nutritional intake of Ameicans. 
-The first step to reducing obesity is to medatate on an individuals day to day consumption of foods. 
-In order to develop a change, an evaluation of an individulas diet must take place. irst orer of busisness is often one of the most in depth and brain stretching procedures. 
-The client must be able to recall all the food that they have consumed in the last 24 hours. 
-This allows the dietitian to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves. 
+Upon this concerning fact, we will take a look at how to perform a 24 hour food recall in order to improve nutritional status of Ameicans.
 
-## What if the client cannot recall thier previous days food intake? ##
-If a client is unable to recall their pervious 24 food intake, there are a few options to get through this process. 
-1.
-2.
-3.
-4.
+
+In order to develop a change, an evaluation of an individulas diet must take place. 
+The first order of busisness is often one of the most in depth and brain stretching procedures. 
+The client must be able to recall all the food that they have consumed in the last 24 hours. 
+This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves. 
+The following provides step-by-step instructions on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future.
+
+## Get Prepared ##
+When performing a 24 hour dietary recall, you must be prepared in order to achive your goal. Make sure you have (a):
+>Pen
+
+>Paper (Includes spaces for breakfast, a.m. snack, lunch, afternoon snack, dinner, p.m. snack)
+
+>Calculator
+
+>20-30 minutes
+
+>Friendly attitude
+
+
 
 ## Step 1 ##
-Begin by letting client know that they are in a safe and judgement free zone to talk about food. 
+First thing in a 24 hour dietary recall is the most important step. The  by letting client know that they are in a safe and judgement free zone to talk about food. 
 So oten times people feel as though others are going to be judgemental about the food choices that they make. 
 However, this recall is not about judgement, but rather about how to help the client. 
 
@@ -45,6 +55,9 @@ The final meal is supper.
 
 ## Step 7 ##
 To conclude, a dietary recall of a client, a final recall of any pm snacks is taken place. 
+
+FAQ
+## What if an Individual is Unable to Recall? ##
 
 ## What To Do After a Dietary Recall ##
 After recalling a clients past 24 hour diet intake, 
