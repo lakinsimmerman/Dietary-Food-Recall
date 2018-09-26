@@ -1,14 +1,14 @@
 ![ 24 Hour Food Recall ]( https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/ll.jpg )
 ## Introduction ## 
 People everywhere find themselves unaware of the amount of calories they consume a day.
-This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are overwhelmed with busy schedules. 
-This has lead to the loss of focus when it comes to consuming moderate food intake in American culture. 
+This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to taking care of  kids, to performing well in college classes, Americans are overwhelmed with busy schedules. 
+This has lead to a loss of personal focus in regards to consumption of a moderate daily intake of food in American culture. 
 So how does this affect American people? 
 According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how to perform a 24 hour food recall in order to improve nutritional status of Americans.
 
 
-In order to develop a change, an evaluation of an individual's diet must take place. 
-The first order of business is often one of the most in depth and brain stretching procedures. 
+In order to develop a beneficial change in American's food consumption, an evaluation of an individual's diet must take place. 
+A 24 hour food recall requires a very in-depth and brain stretching task for individuals involved.  
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
 This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves. 
 The following provides step-by-step instructions on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future.
@@ -28,30 +28,30 @@ When performing a 24 hour dietary recall, you must be prepared in order to achie
 
 
 ## Step 1 ##
-First thing in a 24 hour dietary recall is the most important step in order to get the most accurate data from an individual. 
-After proper introduction of oneself, begin by letting the client know that they are in a safe and judgement free zone to talk about their food consumption. 
-So often times people feel as though they are going to be judged based on the foods they consume; therefore, they choose to withhold information about the food choices that they make.
+The first step in a 24 hour dietary recall is the most important thing in order to get the most accurate data from an individual. 
+Begin by giving a proper introduction of oneself in order to make the invividual comfortable. 
+Next, let the client know that they are in a safe and judgement free zone to talk about their food consumption. 
+Often times people feel as though they will be judged based on the foods they consume; therefore, they choose to withhold information about the food choices that they make.
 This fear of judgement can disrupt the accuracy and goal of the 24 hour recall. 
-One must keep in mind that this recall is not about making someone feel bad about what they consume but rather how they can help them. 
-
-To begin the food recall, ask the client to be as accurate as possible.
+You must keep in mind that this recall is not about making someone feel bad about what they consume, but rather how you can help them. 
+To begin the food recall, ask the client to be as accurate and honest as possible.
 
 ## Step 2 ##
-Since breakfast is typically the first meal of the day begin with breakfast recall
+Since breakfast is typically the first meal of the day, begin asking for a breakfast recall.
 
 This includes:
 
 >What time did you eat your first item of food today? (Record in chart) 
 
->What did you eat? 
+>What did you eat? (Record in chart)
 
 >How much did you consume? (Record in chart) 
 
->What beverages did you consume? 
+>What beverages did you consume? How much? (Record in chart)
 
->Do you take any medications, supplements, or vitamins? 
+>Do you take any medications, supplements, or vitamins? (Record in chart)
 
-After each question is asked and answered, record information in organized 24 Hour Food Recall Chart. 
+After each question is asked and answered, record information in an organized 24 Hour Food Recall Chart. 
 
 *If no food was consumed in the morning hours, record this in chart* 
 
@@ -80,27 +80,25 @@ Additions can be made at this point.
 
 
 # FAQ #
-## What if an Individual is Unable to Recall? ##
+## What if an individual is unable to recall? ##
 
 This is a very common issue concerning dietary recalls. Many times individuals are unaware of what they are eating from day to day. 
 Upon this issue, there are two options:
 
->1. Ask the individual to try their best to recall a normal day. Even if they are unable to remember that specific day, the often times are able to identify a normal days diet or patterns in their day to day meals. 
+>1. Ask the individual to try their best to recall a normal day. Even if they are unable to remember that specific day, they often times are able to identify a normal days diet or patterns in their day to day meals. 
 
->2. Ask the individual to reschedule a meeting the following week. During this time in between, they must record their food intake in a journal to be shared the next time. 
+>2. Ask the individual to reschedule a meeting the following week. During this time in between, they must record their food intake in a journal to be shared at the next meeting. 
 
-## What if They are Recalling In the Middle of the Day? 
+## What if they are recalling in the middle of the day? 
 
 If a dietary recall is done in the middle of the day, have no fear!
-Ask the individual to begin with their most recent consumption of food and work backwards. 
+Ask the individual to begin with their most recent consumption of food and progress backwards. 
 
 For example, 
 
-*Johnny has been asked to do a 24 hour recall. However, it is 3 in the afternoon and he has not ate his dinner or his usual bowl of ice cream as a late night snack. So should he make it up or pretend like he has already done it? Wrong. Instead Johnny will begin by recalling his most food intake, followed by lunch, then breakfast. He then will recall his previous nights pm snack as well as dinner.*
+>Johnny has been asked to do a 24 hour recall. However, it is 3 in the afternoon and he has not ate his dinner or his usual bowl of ice cream as a late night snack. So should he make it up or pretend like he has already done it? Wrong. Instead, Johnny will begin by recalling his most recent food intake, followed by lunch, then breakfast. He then will recall his previous nights pm snack as well as dinner.Just because those meals happened during different days, they are still within 24 hours of each other, thus can be recorded with no issues.
 
-Just because those meals happened during different days, they are still within 24 hours of each other, thus can be recorded with no issues. 
-
-## What is the Point of a 24 Hour Dietary Recall?
+## What is the point of a 24 Hour dietary recall?
 
 A dietary recall allows a professional healthcare provider such as a dietitian or a doctor be able to identify issues in consumption that can be causing health problems.
 Although seemly simple, a dietary recall must be done with precise detail and accuracy. 
