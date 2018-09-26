@@ -8,10 +8,11 @@ According to [ National Institute of Diabetes and Digestive and Kidney Disease ]
 
 
 In order to develop a beneficial change in American's food consumption, an evaluation of an individual's diet must take place. 
-A 24 hour food recall requires a very in-depth and brain stretching task for individuals involved.  
+A 24 hour food recall requires a very in-depth and brain stretching task for individuals involved. 
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
-This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves. 
-The following provides step-by-step instructions on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future.
+This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves.
+A step-by-step guide is needed in order to complete the recall without forgetting important things that a healthcare provier will need for the later parts of an assessment. 
+The following provides step-by-step instructions on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future. 
 
 ## Get Prepared ##
 When performing a 24 hour dietary recall, you must be prepared in order to achieve your goal. Make sure you have (a):
@@ -24,7 +25,6 @@ When performing a 24 hour dietary recall, you must be prepared in order to achie
 >20-30 minutes
 
 >Friendly attitude
-
 
 
 ## Step 1 ##
@@ -76,6 +76,9 @@ To conclude a dietary recall of a client, a final recall of any pm snacks is tak
 At this time, you will read back to the client their 24 hour recall and ask if there is anything missing or inaccurate. 
 Additions can be made at this point.
 
+*For reference, refer to image below*
+
+## Example Dietary Food Recall Finished Paper ##
 ![ Example of Dietary Food Recall Finished Paper ](https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/th3AOK1F13.jpg)
 
 
@@ -104,7 +107,7 @@ A dietary recall allows a professional healthcare provider such as a dietitian o
 Although seemly simple, a dietary recall must be done with precise detail and accuracy. 
 If not taken seriously or without proper guidelines, the information will be inaccurate and of no use. 
 
-## What To Do After a Dietary Recall ##
+## What to do after a dietary recall ##
 After recalling a client's past 24 hour diet intake, advising takes place. Calculations of total caloric intake, macronutrient intake, and overall examination of a well balanced intake are done. 
 Plans are formulated to improve diet, reduce calories (if needed), and recommendations are given.  
 
