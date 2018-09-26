@@ -29,7 +29,7 @@ When performing a 24 hour dietary recall, you must be prepared in order to achie
 
 ## Step 1 ##
 The first step in a 24 hour dietary recall is the most important thing in order to get the most accurate data from an individual. 
-Begin by giving a proper introduction of oneself in order to make the invividual comfortable. 
+Begin by giving a proper introduction of oneself in order to provide a comfortable and welcoming experience. 
 Next, let the client know that they are in a safe and judgement free zone to talk about their food consumption. 
 Often times people feel as though they will be judged based on the foods they consume; therefore, they choose to withhold information about the food choices that they make.
 This fear of judgement can disrupt the accuracy and goal of the 24 hour recall. 
@@ -37,9 +37,9 @@ You must keep in mind that this recall is not about making someone feel bad abou
 To begin the food recall, ask the client to be as accurate and honest as possible.
 
 ## Step 2 ##
-Since breakfast is typically the first meal of the day, begin asking for a breakfast recall.
+Since breakfast is typically the first meal of the day, begin by asking for a breakfast recall.
 
-This includes:
+Doing this includes:
 
 >What time did you eat your first item of food today? (Record in chart) 
 
@@ -115,9 +115,9 @@ A dietary recall allows a professional healthcare provider such as a dietitian o
 Although seemly simple, a dietary recall must be done with precise detail and accuracy. 
 If not taken seriously or without proper guidelines, the information will be inaccurate and of no use. 
 
-## What to do after a dietary recall ##
-After recalling a client's past 24 hour diet intake, advising takes place. Calculations of total caloric intake, macronutrient intake, and overall examination of a well balanced intake are done. 
-Plans are formulated to improve diet, reduce calories (if needed), and recommendations are given.  
+## What happens after a dietary recall? ##
+After recalling a client's past 24 hour diet intake, an advising session takes place. Calculations of total caloric intake, macronutrient intake, and overall examination of a well balanced intake are done. 
+Plans are formulated to improve diet, reduce calories (if needed), and recommendations are given.
 
 # Conclusion #
 Performing a 24 dietary recall is not as simple as one may believe. 
