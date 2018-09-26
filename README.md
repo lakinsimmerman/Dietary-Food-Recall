@@ -68,7 +68,7 @@ Make sure portion sizes are accurate by giving visual aids to ensure the individ
 
 ## Steps 4-6 ##
 Steps 4-6 are very similar to steps 2 and 3.
-Continue on with the dietary recall for lunch, afternoon snack, and dinner. Make sure and include beverages, and supplements. 
+Continue on with the dietary recall for lunch, afternoon snack, and dinner. Make sure and include beverages and supplements. 
 Remember to go slow and be as thorough as possible. 
 
 ## Step 7 ##
