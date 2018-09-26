@@ -4,8 +4,7 @@ People everywhere find themselves unaware of the amount of calories they consume
 This is not suprising due to the amount of stresses and daily tasks that demand our constant attention. From work, to kids, to college classes, Americans are overwhelmed with busy schedules. 
 This has lead to the loss of focus when it comes to consuming moderate food intake in American culture. 
 So how does this affect American people? 
-According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic.  
-Upon this concerning fact, we will take a look at how to perform a 24 hour food recall in order to improve nutritional status of Ameicans.
+According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how to perform a 24 hour food recall in order to improve nutritional status of Ameicans.
 
 
 In order to develop a change, an evaluation of an individulas diet must take place. 
@@ -75,7 +74,7 @@ Remember to go slow and be as thorough as possible.
 ## Step 7 ##
 To conclude a dietary recall of a client, a final recall of any pm snacks is taken place. 
 At this time, you will read back to the client their 24 hour recall and ask if there is anything missing or inaccurate. 
-If the individual says 
+Additions can be made at this point.
 
 ![ Example of Dietary Food Recall Finished Paper ](https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/th3AOK1F13.jpg)
 
@@ -90,11 +89,30 @@ Upon this issue, there are two options:
 
 >2. Ask the indivdual to reschedule a meeting the following week. During this time in between, they must record thier food intake in a journal to be shared the next time. 
 
+## What if They are Recalling In the Middle of the Day? 
+
+If a dietary recall is done in the middle of the day, have no fear!
+Ask the individual to begain with their most recent cosumption of food and work backwards. 
+
+For example, 
+
+*Johnny has been asked to do a 24 hour recall. However, it is 3 in the afternoon and he has not ate his dinner or his usual bowl of ice cream as a late night snack. So should he make it up or pretend like he has already done it? Wrong. Instead Johnny will begin by recalling his most food intake, followed by lunch, then breakfast. He then will recall his previous nights pm snack as well as dinner.*
+
+Just because those meals happened during different days, they are still within 24 hours of each other, thus can be recorded with no issues. 
+
 ## What is the Point of a 24 Hour Dietary Recall?
 
-## What To Do After a Dietary Recall ##
-After recalling a clients past 24 hour diet intake, 
+A dietary recall allows a professional healhcare provider such as a dietitian or a doctor be able to identify issues in consumption that can be causing health problems.
+Although seemly simple, a dietary recall must be done with precise detail and accuracy. 
+If not taken seriously or without proper guidleines, the information will be inaccurate and of no use. 
 
-## What if They are Recalling In the Middle of the Day? 
+## What To Do After a Dietary Recall ##
+After recalling a clients past 24 hour diet intake, advising takes place. Calculations of total caloric intake, macronutrient intake, and overall examination of a well balanced intake are done. 
+Plans are formulated to improve diet, reduce calorires (if needed), and reccomendations are given.  
+
+# Conclusion #
+Performing a 24 dietary recall is not as simple as one may believe. 
+Upon following the steps provided, one should be able to assess an individuals intakes without error. 
+This is very important in improving overall health in America and raise awareness to individuals on the amount of calories and nutrients needed vs consumed. 
 
 
