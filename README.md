@@ -68,8 +68,16 @@ Make sure portion sizes are accurate by giving visual aids to ensure the individ
 
 ## Steps 4-6 ##
 Steps 4-6 are very similar to steps 2 and 3.
-Continue on with the dietary recall for lunch, afternoon snack, and dinner. Make sure and include beverages and supplements. 
-Remember to go slow and be as thorough as possible. 
+Continue on with the dietary recall for lunch, afternoon snack, and dinner. Make sure and include beverages and supplements.
+
+Always remember to ask about added dressings, dips, etc. Those add up quickly and must not be forgotten in a dietary recall.
+If an individual states they consumed a salad for lunch, make sure and include questions such as:
+
+>Did you use dressing on top? If so, how much and what kind?
+
+>What extra's were added? (Crutons, nuts, bacon, etc.)
+
+Remember to go slow and be as thorough as possible. This results in more accurate recall. 
 
 ## Step 7 ##
 To conclude a dietary recall of a client, a final recall of any pm snacks is taken place. 
