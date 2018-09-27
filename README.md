@@ -4,7 +4,7 @@ People everywhere find themselves unaware of the amount of calories they consume
 This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to taking care of  kids, to performing well in college classes, Americans are overwhelmed with busy schedules. 
 This has lead to a loss of personal focus in regards to consumption of a moderate daily intake of food in American culture. 
 So how does this affect American people? 
-According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how to perform a 24 hour food recall in order to improve nutritional status of Americans.
+According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how a healthcare professional can perform a 24 hour food recall in order to improve nutritional status of Americans.
 
 
 In order to develop a beneficial change in American's food consumption, an evaluation of an individual's diet must take place. 
@@ -12,7 +12,7 @@ A 24 hour food recall requires a very in-depth and brain stretching task for ind
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
 This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves.
 A step-by-step guide is needed in order to complete the recall without forgetting important things that a healthcare provier will need for the later parts of an assessment. 
-The following provides step-by-step instructions on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future. 
+The following provides step-by-step instructions for a healthcare professional on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future. 
 
 ## Get Prepared ##
 When performing a 24 hour dietary recall, you must be prepared in order to achieve your goal. Make sure you have (a):
