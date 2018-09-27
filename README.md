@@ -142,6 +142,6 @@ Plans are formulated to improve diet, reduce calories (if needed), and recommend
 # Conclusion #
 Performing a 24 dietary recall is not as simple as one may believe. 
 Upon following the steps provided, one should be able to assess an individual's intakes without error. 
-This is very important in improving overall health in America and raise awareness to individuals on the amount of calories and nutrients needed vs consumed. 
+This is very important in improving overall health in America and raise awareness to individuals on the amount of calories and nutrients needed vs consumed.   
 
 
