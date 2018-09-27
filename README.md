@@ -9,10 +9,11 @@ According to [ National Institute of Diabetes and Digestive and Kidney Disease ]
 
 In order to develop a beneficial change in American's food consumption, an evaluation of an individual's diet must take place. 
 A 24 hour food recall requires a very in-depth and brain stretching task for individuals involved. 
+This procedure is performed by a healthcare professional, typically a dietitian.
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
-This allows a dietitian or any health conscious individual to be able to advise, encourage, and ultimately provide resources for the patient to become a healthier and version of themselves.
-A step-by-step guide is needed in order to complete the recall without forgetting important things that a healthcare provier will need for the later parts of an assessment. 
-The following provides step-by-step instructions for a healthcare professional on how to construct a 24 hour diet recall in order to advance in determining nutritional needs later in the future. 
+This allows a dietitian or any healthcare individual the ability to advise, encourage, and ultimately provide resources for the patient to become a healthier version of themselves.
+A step-by-step guide is needed for healthcare workers in order to perfrom the recall without forgetting important information that will be needed in the later parts of an nutrition intervention.
+The following provides step-by-step instructions for a healthcare professional on how to construct a 24 hour diet recall.
 
 ## Get Prepared ##
 When performing a 24 hour dietary recall, you must be prepared in order to achieve your goal. Make sure you have (a):
