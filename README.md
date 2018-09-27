@@ -1,8 +1,8 @@
 ![ 24 Hour Food Recall ]( https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/ll.jpg )
 ## Introduction ## 
-People all across America find themselves unaware of the amount of calories they consume a day.
+People throughout America find themselves unaware of the amount of calories they consume a day.
 This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to taking care of  kids, to performing well in college classes, Americans are overwhelmed with busy schedules. 
-This has lead to a loss of personal focus in regards to consumption of a moderate daily intake of food in American culture. 
+This has lead to a loss of personal focus in regards to consumption of a moderate daily caloric intake of food in American culture. 
 So how does this affect American people? 
 According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how a healthcare professional can perform a 24 hour food recall in order to improve nutritional status of Americans.
 
