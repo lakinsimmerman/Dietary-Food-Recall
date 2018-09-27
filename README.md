@@ -1,6 +1,6 @@
 ![ 24 Hour Food Recall ]( https://github.com/lakinsimmerman/Dietary-Food-Recall/blob/master/ll.jpg )
 ## Introduction ## 
-People everywhere find themselves unaware of the amount of calories they consume a day.
+People all across America find themselves unaware of the amount of calories they consume a day.
 This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to taking care of  kids, to performing well in college classes, Americans are overwhelmed with busy schedules. 
 This has lead to a loss of personal focus in regards to consumption of a moderate daily intake of food in American culture. 
 So how does this affect American people? 
