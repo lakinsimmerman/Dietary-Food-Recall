@@ -37,9 +37,10 @@ You must keep in mind that this recall is not about making someone feel bad abou
 To begin the food recall, ask the client to be as accurate and honest as possible.
 
 ## Step 2 ##
-Since breakfast is typically the first meal of the day, begin by asking for a breakfast recall.
+Since breakfast is typically the first meal of the day, begin by asking for a breakfast recall. 
+Here we want to know information such as what food was eaten, how much was eaten, how it was prepared, and how it was served.
 
-Doing this includes:
+Doing this includes the following questions:
 
 >What time did you eat your first item of food today? (Record in chart) 
 
@@ -47,13 +48,15 @@ Doing this includes:
 
 >How much did you consume? (Record in chart) 
 
+>How was it cooked or served? Warm or cold? (Record in Chart)
+
 >What beverages did you consume? How much? (Record in chart)
 
 >Do you take any medications, supplements, or vitamins? (Record in chart)
 
 After each question is asked and answered, record information in an organized 24 Hour Food Recall Chart. 
 
-*If no food was consumed in the morning hours, record this in chart* 
+*If no food was consumed in the morning hours, record this in chart. Record all data and information given* 
 
 **Note**
 
