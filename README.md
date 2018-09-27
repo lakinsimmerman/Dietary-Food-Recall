@@ -2,14 +2,14 @@
 ## Introduction ## 
 People throughout America find themselves unaware of the amount of calories they consume a day.
 This is not surpising due to the amount of stresses and daily tasks that demand our constant attention. From work, to taking care of  kids, to performing well in college classes, Americans are overwhelmed with busy schedules. 
-This has lead to a loss of personal focus in regards to consumption of a moderate daily caloric intake of food in American culture. 
+This has lead to a loss of personal focus on consumption of a moderate daily caloric intake of food in American culture. 
 So how does this affect American people? 
-According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing an obesity epidemic. Upon this concerning fact, we will take a look at how a healthcare professional can perform a 24 hour food recall in order to improve nutritional status of Americans.
+According to [ National Institute of Diabetes and Digestive and Kidney Disease ]( https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), America is facing a very concerning obesity epidemic. Upon this fact, we will take a look at how a healthcare professional can perform a 24 hour food recall in order to improve nutritional status of Americans.
 
 
 In order to develop a beneficial change in American's food consumption, an evaluation of an individual's diet must take place. 
 A 24 hour food recall requires a very in-depth and brain stretching task for individuals involved. 
-This procedure is performed by a healthcare professional, typically a dietitian.
+This procedure is performed by a healthcare professional, typically a dietitian, but can be a nurse or doctor.
 The client must be able to recall all the food that they have consumed in the last 24 hours. 
 This allows a dietitian or any healthcare individual the ability to advise, encourage, and ultimately provide resources for the patient to become a healthier version of themselves.
 A step-by-step guide is needed for healthcare workers in order to perfrom the recall without forgetting important information that will be needed in the later parts of an nutrition intervention.
@@ -32,14 +32,14 @@ When performing a 24 hour dietary recall, you must be prepared in order to achie
 
 ## Step 1 ##
 The first step in a 24 hour dietary recall is the most important step in order to get the most accurate data from an individual. 
-Begin by giving a proper introduction of oneself in order to provide a comfortable and welcoming experience. 
+Begin by giving a proper introduction of oneself to provide a comfortable and welcoming environment. 
 Next, let the client know that they are in a safe and judgement free zone to talk about their food consumption. 
 Often times people feel as though they will be judged based on the foods they consume; therefore, they choose to withhold information about the food choices that they make.
 This fear of judgement can disrupt the accuracy and goal of the 24 hour recall. 
 You must keep in mind that this recall is not about making someone feel bad about what they consume, but rather how you can help them. 
 To begin the food recall, ask the client to be as accurate and honest as possible.
 
-**Points of Emphasis**
+**Note**
 
 Explain why you are asking questions and the goal of a 24 hour food recall.
 
